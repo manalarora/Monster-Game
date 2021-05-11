@@ -41,7 +41,7 @@
 }
 
 .log ul .monster-turn {
-    color: red;
+    color: rgb(179, 6, 6);
     background-color: #ffc0c1;
 }
 
